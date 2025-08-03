@@ -1,0 +1,21 @@
+[
+  {
+    "guid": "06411f7c-08f6-41da-9e2a-a79b56144845",
+    "name": "ACdb.tv",
+    "overview": "Synchronize Collections from ACdb.tv.",
+    "description": "Add dynamic, auto-updating collections of movies and TV shows from ACdb.tv. Visit ACdb.tv for a quick overview.",
+    "owner": "jonjonsson",
+    "category": "General",
+    "imageUrl": "https://acdb.tv/static/img/assets/plugin/thumb.jpg",
+    "versions": [
+      {
+        "version": "2.2.0.0",
+        "changelog": "First release of the ACdb.tv plugin for Jellyfin.",
+        "targetAbi": "10.10.7",
+        "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/v2.2.0.0/acdb-tv_2.2.0.0.zip",
+        "checksum": "sha256:affd4bf6512acd30f0ea2fbe52c78fc006aaf53b53abbee76452a19bca1b9b21",
+        "timestamp": "2025-08-03T20:48:20Z"
+      }
+    ]
+  }
+]
