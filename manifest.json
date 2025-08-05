@@ -15,6 +15,14 @@
         "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/v2.2.0.0/acdb-tv_2.2.0.0.zip",
         "checksum": "64391209985051f6773befb6840ddcee",
         "timestamp": "2025-08-03T20:48:20Z"
+      },
+      {
+        "version": "2.2.0.1",
+        "changelog": "First release of the ACdb.tv plugin for Jellyfin. Includes a small bug fix from previous release that prevents the plugin admin interface from timing out.",
+        "targetAbi": "10.10.7",
+        "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/v2.2.0.1/acdb-tv_2.2.0.1.zip",
+        "checksum": "a44897d0512f9a85306876e0f4c19234",
+        "timestamp": "2025-08-05T17:36:09Z"
       }
     ]
   }
