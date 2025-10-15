@@ -23,6 +23,14 @@
         "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/v2.2.0.1/acdb-tv_2.2.0.1.zip",
         "checksum": "a44897d0512f9a85306876e0f4c19234",
         "timestamp": "2025-08-05T17:36:09Z"
+      },
+      {
+        "version": "2.3.0.3",
+        "changelog": "Support for collections backdrops. Added better poster handling. Support for upcoming feature Library Posters. Support for upcoming optional feature to not send missing IMDB IDs.",
+        "targetAbi": "10.10.7",
+        "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/2.3.0.3/acdb-tv_2.3.0.3.zip",
+        "checksum": "81de8a2d4bde497ac7ea2d179bb41363",
+        "timestamp": "2025-10-15T17:51:06Z"
       }
     ]
   }
