@@ -31,6 +31,14 @@
         "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/2.3.0.3/acdb-tv_2.3.0.3.zip",
         "checksum": "81de8a2d4bde497ac7ea2d179bb41363",
         "timestamp": "2025-10-15T17:51:06Z"
+      },
+      {
+        "version": "2.3.1.0",
+        "changelog": "Support for Jellyfin version 10.11.0. This version of the plugin will not work with lower versions of Jellyfin. Use previous version if you have an older Jellyfin install.",
+        "targetAbi": "10.11.0",
+        "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/2.3.1.0/acdb-tv_2.3.1.0.zip",
+        "checksum": "f0776403226942bcb3550dddb100c289",
+        "timestamp": "2025-10-21T19:52:35Z"
       }
     ]
   }
