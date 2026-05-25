@@ -9,6 +9,14 @@
     "imageUrl": "https://acdb.tv/static/img/assets/plugin/thumb.jpg",
     "versions": [
       {
+        "version": "3.0.0.3",
+        "changelog": "Required update for Jellyfin 10.11.10. Does not work for versions prior to 10.11.10.",
+        "targetAbi": "10.11.0",
+        "sourceUrl": "https://github.com/jonjonsson/Jellyfin.Plugin.ACdb/releases/download/v.3.0.0.3/acdb-tv_3.0.0.3.zip",
+        "checksum": "ccf35b5fd1033ce175fc8f1a9f745cbb",
+        "timestamp": "2026-05-25T12:44:32Z"
+      },
+      {
         "version": "3.0.0.2",
         "changelog": "Added support for tagging, limiting and library exclusion.",
         "targetAbi": "10.11.0",
